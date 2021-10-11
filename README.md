@@ -1,6 +1,6 @@
 # heapyBot - Discord Bot written in Python  
 
-<img src="https://i.imgur.com/02nwlzt.png" alt="Discord Server" width="180" height="60">  
+<a href="https://dsc.gg/heapybot" target="_blank"><img src="https://i.imgur.com/02nwlzt.png" alt="Discord Server" width="180" height="60"></a>  
   
 > *Currently Bot and the Discord Server is only in Polish. Will be also/only in English soon!*  
   
