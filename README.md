@@ -6,7 +6,7 @@
   
 ## Bot features  
  - Music (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
- - Basic things (Clear chat, Check ping etc.)  
+ - Basic things (Clear chat, Check bot's ping etc.)  
   
 ## Packages used  
  - <a href="https://github.com/Rapptz/discord.py">discord.py</a>  
