@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/02nwlzt.png" alt="Discord Server" width="180" height="60">  
 
-> *Currently Bot is only in Polish. Will be also in English soon!*  
+> *Currently Bot and the Discord Server is only in Polish. Will be also in English soon!*  
 
 ## Bot features
  - Music commands (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)
