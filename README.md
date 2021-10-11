@@ -5,8 +5,8 @@
 > *Currently Bot and the Discord Server is only in Polish. Will be also/only in English soon!*  
 
 ## Bot features
- - Music commands (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)
- - Basic commands (Clear chat, Check ping etc.)
+ - Music (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)
+ - Basic things(Clear chat, Check ping etc.)
 
 ## Packages used
  - <a href="https://github.com/Rapptz/discord.py">discord.py</a>
