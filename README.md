@@ -6,7 +6,7 @@
 > ***Already did that, Bot and the Discord Server is now in English***
   
 ## Bot features  
- - Music (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
+ - Music (Youtube & Spotify - Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
  - Basic things (Clear chat, Check bot's ping etc.)  
   
 ## Packages used  
