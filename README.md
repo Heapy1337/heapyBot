@@ -2,7 +2,7 @@
 
 <a href="https://dsc.gg/heapybot" target="_blank"><img src="https://i.imgur.com/02nwlzt.png" alt="Discord Server" width="180" height="60"></a>  
   
-> ~~*Currently Bot and the Discord Server is only in Polish. Will be also/only in English soon!*~~  
+> ~~*Currently Bot and the Discord Server is only in Polish. Will be also/only in English soon!~~ Already did that*
   
 ## Bot features  
  - Music (Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
