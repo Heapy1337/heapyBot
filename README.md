@@ -12,6 +12,5 @@
 ## Packages used  
  - <a href="https://github.com/Rapptz/discord.py">discord.py</a>  
  - <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>  
- - <a href="https://github.com/omnilib/aiosqlite">aiosqlite</a>  
 
 ###### *heapyBot created on 14/09/2021 by heapy*
