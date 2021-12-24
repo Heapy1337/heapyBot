@@ -1,6 +1,6 @@
 # heapyBot - Discord Bot written in Python  
 
-<a href="https://dsc.gg/heapybot" target="_blank"><img src="https://i.imgur.com/IAnNqs1.png" alt="Discord Server" width="180" height="60"></a> &nbsp; &nbsp; <a href="https://discord.com/api/oauth2/authorize?client_id=887384789483679744&permissions=8&scope=bot" target="_blank"><img src="https://i.imgur.com/FV6fNW8.png" alt="Invite Bot" width="180" height="60"></a>  
+<a href="https://dsc.gg/heapybot" target="_blank"><img src="https://i.imgur.com/D9oIoeC.png" alt="Discord Server" width="180" height="60"></a> &nbsp; &nbsp; <a href="https://discord.com/api/oauth2/authorize?client_id=887384789483679744&permissions=8&scope=bot" target="_blank"><img src="https://i.imgur.com/dbg8rCS.png" alt="Invite Bot" width="180" height="60"></a>  
   
 ## Bot features  
  - Music (Youtube & Spotify - Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
