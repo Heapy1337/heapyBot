@@ -5,7 +5,7 @@
 ## Bot features  
  - Music (Youtube, Spotify, Soundcloud & Deezer - Provided by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)  
  - Basic (Clear chat, Check bot's ping)  
- - Moderation (Provided <b>[ in 50% ]</b> by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>
+ - Moderation (Provided <b>[ in 50% ]</b> by <a href="https://github.com/discordsuperutils/discord-super-utils">discordSuperUtils</a>)
   
 ## Packages used  
  - <a href="https://github.com/Rapptz/discord.py">discord.py</a>  
